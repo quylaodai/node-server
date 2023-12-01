@@ -1,0 +1,27 @@
+{
+    "normal": {
+        "tableFormat": [3,3,3,3,3],
+        "payTable": {
+            "2": []
+        },
+        "lines": [],
+        "isAllWays": true
+    },
+    "free": {
+        "tableFormat": [3,3,3,3,3],
+        "payTable": {
+            "2": []
+        },
+        "lines": [],
+        "isAllWays": true
+    },
+    "bonus": {
+        "tableFormat": [],
+        "defaultValue": -1,
+        "payTable": {
+            "2": []
+        },
+        "lines": [],
+        "isAllWays": true
+    }
+}
