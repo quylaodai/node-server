@@ -17,7 +17,6 @@ class CardUtils {
     constructor() {
         this.cardIds = Object.freeze(Object.create(null), cardIds);
         this.cardList = Object.freeze(cardList.slice());
-        console.error(this.cardIds );
     }
 
     pickCards(numCard) {

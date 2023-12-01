@@ -4,7 +4,7 @@ const { cardUtils } = require("../utils/CardUtils");
 class ThirteenSlot {
 
     constructor() {
-        console.error("ThirteenSlot");
+        console.log("ThirteenSlot");
     }
 
     pickCards() {
