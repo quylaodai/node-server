@@ -1,6 +1,12 @@
 {
     "normal": {
-        "tableFormat": [3,3,3,3,3],
+        "tableFormat": [
+            3,
+            3,
+            3,
+            3,
+            3
+        ],
         "payTable": {
             "2": []
         },
@@ -8,7 +14,13 @@
         "isAllWays": true
     },
     "free": {
-        "tableFormat": [3,3,3,3,3],
+        "tableFormat": [
+            3,
+            3,
+            3,
+            3,
+            3
+        ],
         "payTable": {
             "2": []
         },
